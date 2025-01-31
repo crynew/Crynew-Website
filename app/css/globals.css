@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --white: #e5c7ee;
+  --white-two: hsl(300, 16%, 69%);
+  --yellow: #db95bc;
+  --yellow-opacity: #cf95db2a;
+  --bg-color: hsl(300, 12%, 8%);
+  --neutral-one: #211c21;
+  --neutral-two: #211c2175;
+  --neutral-three: #1e1a1d;
+  --neutral-four: rgba(123, 115, 122, .227);
+  --neutral-five: #1f191eca;
+  --font-one: "Space Grotesk", sans-serif;
+  --font-two: "JetBrains Mono", monospace;
+  --bezier-one: cubic-bezier(.25, .46, .45, .94);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: url("/pointer.png"), default;
+}
+
+a {
+  cursor: url("/link.png"), default;
+}
+
+button {
+  cursor: url("/link.png"), default;
+}
+
+.cursor-link {
+  cursor: url("/link.png"), default;
+}
