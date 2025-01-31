@@ -65,21 +65,6 @@ export default function Portfolio() {
       type: 'image',
       url: '/foto2.jpg',
       description: 'My girlfriend is very cute'
-    },
-    {
-      type: 'image',
-      url: '/foto3.png',
-      description: 'My girlfriend is very stylish'
-    },
-    {
-      type: 'image',
-      url: '/foto4.png',
-      description: 'My girlfriend is very funny'
-    },
-    {
-      type: 'video',
-      url: '/video2.mp4',
-      description: 'My girlfriend is very funny ( 2x )'
     }
   ];
 
