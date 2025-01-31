@@ -32,6 +32,25 @@ Welcome to my portfolio! Here you can share your language statistics, skills, pr
    ```
 5. Customize your profile by filling in the necessary details.
 
+# .env.example
+
+This file serves as an example of the required environment variables for the project. Copy this file and rename it to `.env`, then fill in the necessary values.
+
+## Example Variables
+
+```
+# music
+MUSIC_URL=
+
+# discord
+DISCORD_ID=
+
+#github
+GITHUB_USERNAME=
+```
+
+Make sure to keep your `.env` file private and never commit it to version control!
+
 ## Technologies Used
 
 - Next.js 15
