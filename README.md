@@ -40,3 +40,22 @@ Welcome to my portfolio! Here you can share your language statistics, skills, pr
 - GitHub API
 - [Camilo404 API](https://github.com/Camilo404)
 
+# presentation
+
+1. Page Cover
+<img src="https://i.imgur.com/BIHUycy.png" alt="page cover image" />
+
+2. Primary Section
+<img src="https://i.imgur.com/cVcHueo.png" alt="page cover image" />
+
+3. Gallery Section
+<img src="https://i.imgur.com/wHwT3QQ.png" alt="page cover image" />
+
+4. Gallery Section Modal
+<img src="https://i.imgur.com/uZ5wty3.png" alt="page cover image" />
+
+5. Projects & Skills Section
+<img src="https://i.imgur.com/fNgtwSm.png" alt="page cover image" />
+
+6. Repositories Section
+<img src="https://i.imgur.com/tW1omfv.png" alt="page cover image" />
